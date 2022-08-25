@@ -1,4 +1,0 @@
-2021-08-05T16:46:11+00:00 CRITICAL Cannot redeclare get_header() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/general-template.php:27) în /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/storefront/functions.php pe linia 73
-
-2021-08-05T16:46:11+00:00 CRITICAL Cannot redeclare get_header() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/general-template.php:27) în /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/storefront/functions.php pe linia 73
-

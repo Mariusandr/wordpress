@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-02 13:15:54+0000\n"
+"PO-Revision-Date: 2021-08-20 13:09:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -231,15 +231,15 @@ msgstr "Ca să salvezi modificările, fișierul %1$s trebuie să poată fi scris
 msgid "Rewrite rules:"
 msgstr "Reguli de rescriere:"
 
-#: wp-admin/nav-menus.php:1022
+#: wp-admin/nav-menus.php:1028
 msgid "List of menu items selected for deletion:"
 msgstr "Lista cu elementele din meniu selectate pentru ștergere:"
 
-#: wp-admin/nav-menus.php:1020
+#: wp-admin/nav-menus.php:1026
 msgid "Remove Selected Items"
 msgstr "Înlătură elementele selectate"
 
-#: wp-admin/nav-menus.php:987 wp-admin/nav-menus.php:1018
+#: wp-admin/nav-menus.php:989 wp-admin/nav-menus.php:1024
 msgid "Bulk Select"
 msgstr "Selectare în masă"
 
@@ -5649,7 +5649,7 @@ msgstr "Ascunde controalele"
 msgid "Expand Sidebar"
 msgstr "Extinde bara laterală"
 
-#: wp-admin/nav-menus.php:1052
+#: wp-admin/nav-menus.php:1060
 msgid "Display location"
 msgstr "Afișează locația"
 
@@ -6592,7 +6592,7 @@ msgid "Send User Notification"
 msgstr "Trimite notificări utilizatorului"
 
 #. translators: %s: Menu name.
-#: wp-admin/nav-menus.php:1072
+#: wp-admin/nav-menus.php:1080
 msgctxt "menu location"
 msgid "(Currently set to: %s)"
 msgstr "(setat acum pentru: %s)"
@@ -8739,7 +8739,7 @@ msgstr "Etichetă neadăugată."
 
 #: wp-admin/includes/edit-tag-messages.php:36
 msgid "Tag updated."
-msgstr "Etichetă actualizată."
+msgstr "Eticheta a fost actualizată."
 
 #: wp-admin/includes/edit-tag-messages.php:35
 msgid "Tag deleted."
@@ -9084,7 +9084,7 @@ msgstr "Refuzate: %s"
 msgid "Capabilities"
 msgstr "Capabilități"
 
-#: wp-admin/nav-menus.php:1027 wp-admin/network/settings.php:490
+#: wp-admin/nav-menus.php:1035 wp-admin/network/settings.php:490
 msgid "Menu Settings"
 msgstr "Setări meniu"
 
@@ -9140,11 +9140,11 @@ msgstr "Bun, până acum! Ai trecut cu bine peste această parte a instalării. 
 msgid "Client version"
 msgstr "Versiune client"
 
-#: wp-admin/nav-menus.php:1043
+#: wp-admin/nav-menus.php:1051
 msgid "Auto add pages"
 msgstr "Adaugă automat pagini"
 
-#: wp-admin/nav-menus.php:1001
+#: wp-admin/nav-menus.php:1005
 msgid "Give your menu a name, then click Create Menu."
 msgstr "Dă meniului tău un nume, apoi dă clic pe Creează meniu."
 
@@ -12172,7 +12172,7 @@ msgstr "Clase CSS (opțional)"
 msgid "Link Target"
 msgstr "Destinație legătură"
 
-#: wp-admin/nav-menus.php:961 wp-admin/nav-menus.php:1118
+#: wp-admin/nav-menus.php:961 wp-admin/nav-menus.php:1126
 msgid "Save Menu"
 msgstr "Salvează meniul"
 
@@ -14745,7 +14745,7 @@ msgstr "WordPress are ultima versiune."
 
 #: wp-admin/includes/class-theme-upgrader.php:82
 msgid "Theme installed successfully."
-msgstr "Temă instalată cu succes."
+msgstr "Tema a fost instalată cu succes."
 
 #: wp-admin/includes/class-theme-upgrader.php:77
 msgid "Installing the theme&#8230;"

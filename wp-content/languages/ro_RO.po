@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-02 15:06:12+0000\n"
+"PO-Revision-Date: 2021-08-24 21:27:51+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5004,7 +5004,7 @@ msgstr "Pagină actualizată."
 #: wp-includes/post.php:1819 wp-admin/edit-form-advanced.php:182
 #: wp-admin/edit-form-advanced.php:185
 msgid "Post updated."
-msgstr "Articol actualizat."
+msgstr "Articolul a fost actualizat."
 
 #: wp-includes/post.php:1818
 msgid "Page scheduled."
@@ -7724,7 +7724,7 @@ msgstr "Prima pagină"
 
 #: wp-includes/script-loader.php:816 wp-includes/js/dist/components.js:25436
 msgid "Item selected."
-msgstr "Element selectat."
+msgstr "Elementul a fost selectat."
 
 #. translators: 1: Parameter, 2: Minimum number, 3: Maximum number.
 #: wp-includes/rest-api.php:2528
@@ -10564,7 +10564,7 @@ msgid "Home"
 msgstr "Prima pagină"
 
 #: wp-includes/customize/class-wp-customize-new-menu-control.php:59
-#: wp-admin/nav-menus.php:961 wp-admin/nav-menus.php:1118
+#: wp-admin/nav-menus.php:961 wp-admin/nav-menus.php:1126
 msgid "Create Menu"
 msgstr "Creează meniu"
 
@@ -10612,7 +10612,7 @@ msgid "Navigation Label"
 msgstr "Etichetă navigare"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:46
-#: wp-admin/nav-menus.php:1045
+#: wp-admin/nav-menus.php:1053
 msgid "Automatically add new top-level pages to this menu"
 msgstr "Adaugă automat pagini noi de nivel superior în acest meniu"
 
@@ -10622,7 +10622,7 @@ msgid "Menu Location"
 msgstr "Locație meniu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1105
-#: wp-admin/nav-menus.php:1112
+#: wp-admin/nav-menus.php:1120
 msgid "Delete Menu"
 msgstr "Șterge meniul"
 
@@ -11095,7 +11095,7 @@ msgstr "Culoare"
 #: wp-includes/customize/class-wp-customize-media-control.php:250
 #: wp-includes/widgets/class-wp-widget-media-image.php:38
 msgid "No image selected"
-msgstr "Nicio imagine selectată"
+msgstr "Nu ai selectat nicio imagine"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:245
 #: wp-includes/customize/class-wp-customize-media-control.php:251
@@ -14789,7 +14789,7 @@ msgstr "Noul tău nume de utilizator este %s"
 #: wp-includes/script-loader.php:1787 wp-signup.php:623
 #: wp-includes/js/dist/components.js:36697
 msgid "Next"
-msgstr "Următorul"
+msgstr "Următor"
 
 #: wp-signup.php:619
 msgid "Just a username, please."
@@ -16289,7 +16289,7 @@ msgstr "Titlu pagină"
 #: wp-includes/widgets/class-wp-widget-links.php:156
 #: wp-includes/widgets/class-wp-widget-pages.php:169
 msgid "Sort by:"
-msgstr "Sortare după:"
+msgstr "Sortează după:"
 
 #: wp-includes/cron.php:1049
 msgid "Once Daily"
@@ -17160,7 +17160,7 @@ msgstr "Conținut"
 #: wp-admin/includes/media.php:1744 wp-admin/includes/media.php:2279
 #: wp-admin/includes/meta-boxes.php:155 wp-admin/includes/meta-boxes.php:208
 #: wp-admin/includes/template.php:498 wp-admin/includes/template.php:741
-#: wp-admin/includes/template.php:862 wp-admin/nav-menus.php:1093
+#: wp-admin/includes/template.php:862 wp-admin/nav-menus.php:1101
 #: wp-admin/options-general.php:129 wp-admin/user-edit.php:531
 #: wp-admin/user-edit.php:645 wp-admin/widgets-form.php:337
 #: wp-admin/widgets-form.php:340 wp-admin/widgets-form.php:553
